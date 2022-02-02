@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+*.iml
+docker/rabbitmq/data/mnesia
+docker/rabbitmq/data/.erlang.cookie
+docker/rabbitmq/logs/log
